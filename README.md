@@ -1,6 +1,6 @@
-# python-dicom
 
-# How to use the dicom image using python
+
+# How to handle the dicom image using python
 
 ## dicom_read.py
 
